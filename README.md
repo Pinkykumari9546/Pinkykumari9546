@@ -4,7 +4,7 @@
   </a>
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="8" />
-<h3 align="center">Passionate about Coding World.</h3>
+<h3 align="center">Passionate about Tech World.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkykumari9546&label=Profile%20views&color=0e75b6&style=flat" alt="pinkykumari9546" /> </p>
 
@@ -23,8 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pinky-kumari327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinky kumari" height="30" width="40" /></a>
+<a href="https://twitter.com/pinkykumari785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pinkykumari785" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pinky-kumari327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinky-kumari327" height="30" width="40" /></a>
 <a href="https://instagram.com/__sahani.__pinky.__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sahani.__pinky.__07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pinky_kumari_987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pinky_kumari_987" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
