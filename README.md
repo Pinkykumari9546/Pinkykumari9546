@@ -27,6 +27,7 @@
 <a href="https://linkedin.com/in/pinky-kumari327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinky-kumari327" height="30" width="40" /></a>
 <a href="https://instagram.com/__sahani.__pinky.__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sahani.__pinky.__07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pinky_kumari_987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pinky_kumari_987" height="30" width="40" /></a>
+  <a href="https://fb.com/pinky sahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pinky sahani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
