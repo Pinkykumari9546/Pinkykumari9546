@@ -9,11 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkykumari9546&label=Profile%20views&color=0e75b6&style=flat" alt="pinkykumari9546" /> </p>
 
 
-- 🔭 Currently,I'm **a BCA Graduate Student.**
+- 🔭I'm **a BCA Graduate Student.**
 
 - 🌱 I’m currently **learning Python.**
-
-- 👯 I’m looking to collaborate on a **Real-World Projects.**
 
 - 📫 How to reach me **pinkykumari954613@gmail.com**
 
