@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkykumari9546&label=Profile%20views&color=0e75b6&style=flat" alt="pinkykumari9546" /> </p>
 
 
-- 🔭 Currently,I'm **a BCA Final-year Student.**
+- 🔭 Currently,I'm **a BCA Graduate Student.**
 
-- 🌱 I’m currently **learning MERN Stack.**
+- 🌱 I’m currently **learning Python.**
 
 - 👯 I’m looking to collaborate on a **Real-World Projects.**
 
@@ -23,11 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pinkykumari785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pinkykumari785" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/pinky-kumari327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinky-kumari327" height="30" width="40" /></a>
-<a href="https://instagram.com/__sahani.__pinky.__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sahani.__pinky.__07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pinky_kumari_987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pinky_kumari_987" height="30" width="40" /></a>
-  <a href="https://fb.com/pinky sahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pinky sahani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
